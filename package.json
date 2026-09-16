@@ -1,7 +1,7 @@
 {
   "name": "@immediately-run/worker-transport",
   "version": "0.1.0",
-  "description": "The same-origin worker MessagePort transport (WorkerMessageBus + the {type:'connect'} handshake), extracted so a worker-owning service package can ship its own worker entry without depending on `sandbox`. A leaf package, NOT the SDK (SIMPLIFIED_DEPLOYMENT_SPEC \u00a714 / R3-149).",
+  "description": "The same-origin worker MessagePort transport (WorkerMessageBus + the {type:'connect'} handshake), extracted so a worker-owning service package can ship its own worker entry without depending on `sandbox`. A leaf package, NOT the SDK (SIMPLIFIED_DEPLOYMENT_SPEC §14 / R3-149).",
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
