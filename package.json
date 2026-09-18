@@ -23,7 +23,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
     "test": "jest",
-    "lint": "eslint src test",
+    "lint": "eslint src test --max-warnings 0",
     "typecheck": "tsc --noEmit",
     "prepare": "npm run build"
   },
